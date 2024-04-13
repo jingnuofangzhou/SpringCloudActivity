@@ -3,4 +3,8 @@ spring:
   application:
     name:  springcloud-config-server-dev
 server:
-  port: 8764
+  port: 8774
+eureka:
+  client:
+    service-url:
+      defaultZone:http://admin:123456@localhost:8761/eureka/
