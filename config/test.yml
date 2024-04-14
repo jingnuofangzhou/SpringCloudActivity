@@ -3,6 +3,7 @@ server:
 spring:
   application:
     name: commentmgr
+  profiles: dev
   security:
     user:
       name: admin
