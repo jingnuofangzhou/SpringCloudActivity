@@ -10,3 +10,5 @@ eureka:
       defaultZone:http://admin:123456@localhost:8761/eureka/
 data:
   message:  '{cipher}AQA8FdXyaE6soMn9f4gGse9BzAI/38/QBdMfuvGAMuEBpjJThS1Lq+UyLdOy1DQmEwMBE8Uui6m1HhnczizpQ3qtiQj6EVMLZc5PNuTzlYGav0WweiUvdm69seMZYK+w3F+Wr9KIvefZ/3u2UL4L/bDTahoGmlEB/2LJeyq7d1s7/M1Nen2h4yuBbnq8ZgV/pWXByUGQxznCTwQqqC+kSXcJF8f798q02DmR1BhZ/C5HKc9eTA63lDk4lYyA3ig7Rc90RIpORhIMM+FPUyM28lnqLoQC4b1GpNrajpQd+qOceH9NK5bIBxdM4krvG8f7w/NjfbyygEhLl8ntpGJURA5NYuzdVLBkxZAU1YnBbT6TdPWKSrt1E5SWL2dizEYA3I4='
+session:
+  sessionId:  10
