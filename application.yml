@@ -9,4 +9,4 @@ eureka:
     service-url:
       defaultZone:http://admin:123456@localhost:8761/eureka/
 data:
-  message:  '{cipher}37fe17d221a147b04409f9643e3773653583da2ee027f5ec13ad25722ae827d7'
+  message:  '{cipher}b0664bb68c2f67bac420b3aee5403e06e6d88db081e408d16f13a6d32aa84cb1'
