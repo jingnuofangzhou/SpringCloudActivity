@@ -1,2 +1,8 @@
+eureka:
+  client:
+    service-url: defaultZone:http://admin:123456@localhost:8760/eureka/
+server:
+  port: 8764
 spring:
-  cloud:  i am the config file . you know .
+  application:
+    name: commentMgr
