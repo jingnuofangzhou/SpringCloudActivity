@@ -6,3 +6,5 @@ server:
 spring:
   application:
     name: commentMgr
+data:
+  message:'{cipher}37fe17d221a147b04409f9643e3773653583da2ee027f5ec13ad25722ae827d7'
