@@ -1,7 +1,3 @@
-spring:
-  profiles:  dev
-  application:
-    name:  springcloud-config-server-dev
 server:
   port: 8774
 eureka:
